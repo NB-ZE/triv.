@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url(bing_chilling.jpg);
+    display: flex;
+    justify-content: center;
+    background-repeat: repeat;
+    height: 100%;
+    margin: 0
+}
+#mainbox {
+    background-color: rgba(255, 255, 255, .5);
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 20px;
+}
+
