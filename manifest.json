@@ -44,14 +44,14 @@
     "description":"UwU",
     "screenshots": [
         {
-        "src": "ss1.png",
+        "src": "./ss1.png",
         "sizes": "1920x1080",
         "type": "image/png",
         "form_factor": "wide",
         "purpose": "any"
         },
         {
-        "src": "ss2.png",
+        "src": "./ss2.png",
         "sizes": "453x955",
         "type": "image/png",
         "purpose": "any"
