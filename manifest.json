@@ -1,0 +1,60 @@
+{   
+    "theme_color":"#222222",
+    "background_color":"#444444",
+    "icons":[
+        {
+            "purpose":"maskable",
+            "sizes":"512x512",
+            "src":"icon512_maskable.png",
+            "type":"image/png"
+        },
+        {
+            "src": "android-launchericon-512-512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "android-launchericon-192-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "android-launchericon-144-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "android-launchericon-96-96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "android-launchericon-72-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "android-launchericon-48-48.png",
+            "sizes": "48x48"
+        }
+    ],
+    "orientation":"portrait",
+    "display":"standalone",
+    "dir":"auto",
+    "lang":"en-US",
+    "name":"Triv. Incremental Trivia",
+    "short_name":"Triv.",
+    "start_url":"/",
+    "scope":"/",
+    "description":"UwU",
+    "screenshots": [
+        {
+        "src": "ss1.png",
+        "sizes": "1920x1080",
+        "type": "image/png",
+        "form_factor": "wide",
+        "purpose": "any"
+        },
+        {
+        "src": "ss2.png",
+        "sizes": "453x955",
+        "type": "image/png",
+        "purpose": "any"
+        }
+    ]
+}
